@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FallingWords</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Primary School</string>
+    <string name="single_player">Single Player</string>
+    <string name="how_to_play">How To Play</string>
+    <string name="coming_soon">Coming Soon!</string>
+    <string name="correct_answers">Correct answers %1$d</string>
+    <string name="wrong_answers">Wrong answers %1$d</string>
+
+    <string name="correct_answers_dummy">Correct answers 2</string>
+    <string name="wrong_answers_dummy">Wrong answers 3</string>
+    <string name="title_activity_single_player">SinglePlayerActivity</string>
+    <string name="game_question">Is the falling word correct translation for:</string>
+    <string name="correct_translation_is">Correct translation is: %1$s</string>
+    <string name="your_answer_is">Your answer is: %1$s</string>
+    <string name="correct">correct</string>
+    <string name="wrong">wrong</string>
+    <string name="game_over">Game over! If you want to try again press restart button.</string>
+    <string name="game_description">You have to answer if the falling word in spanish language is the correct translation for the english word displayed.</string>
+    <string name="select">Select</string>
+    <string name="correct_choice">if you think the translation is correct</string>
+    <string name="wrong_choice">if you think the translation is wrong</string>
+    <string name="next_choice">to play the next word</string>
+    <string name="restart_choice">to restart the game</string>
+</resources>
